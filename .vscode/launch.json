@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "Java_Practice_1c82e295"
+        }
+    ]
+}
